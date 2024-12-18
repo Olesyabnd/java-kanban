@@ -1,4 +1,4 @@
-package manager;
+package ru.yandex.javacourse.bondarenko.schedule.test.manager;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.BeforeEach;
